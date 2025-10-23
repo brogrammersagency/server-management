@@ -11,9 +11,7 @@
 /storage/database-test.sqlite
 /storage/database.sqlite-journal
 /storage/database-test.sqlite-journal
-.env
 .env.backup
-.env.production
 .phpunit.result.cache
 Homestead.json
 Homestead.yaml
@@ -34,3 +32,4 @@ AGENTS.md
 .github/copilot-instructions.md
 boost.json
 .ai/
+config.bat
